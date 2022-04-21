@@ -21,11 +21,15 @@ button:focus {
 }
 
 nav {
-  margin: 1.5rem;
+  margin: 3rem;
   color: black;
   background-attachment: fixed;
   border-radius: 1.5rem;
   background-color: #92a8d1;
+}
+
+.btn {
+  text-align: center;
 }
 
 .avatar {
@@ -40,7 +44,7 @@ nav {
 }
 
 #main img {
-  animation-delay: 5s;
+  animation-delay: 10s;
 }
 
 .profile {
@@ -48,7 +52,7 @@ nav {
   margin: 3rem 0.5rem;
   text-align: center;
   font-family: arial;
-  padding: 3rem;
+  padding: 3.1rem;
   border-color: rgba(32, 17, 238, 0.87);
   border-radius: 20px;
   background: linear-gradient(45deg, #ec11bc, #3cb7e7);
